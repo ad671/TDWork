@@ -3,5 +3,5 @@ select * from countries;
 select * from departments;
 select * from jobs;
 select * from employees;
-
+select * from
 
